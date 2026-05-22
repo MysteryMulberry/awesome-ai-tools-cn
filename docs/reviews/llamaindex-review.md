@@ -39,4 +39,4 @@ llamaindex-cli --help
 - GitHub仓库: https://github.com/example/llamaindex
 
 ---
-*评测编号: #08 | 评测时间: 2026-05-22T04:25:51Z | 评测人: MysteryMulberry*
+*评测编号: #08 | 评测时间: 2026-05-22T04:40:25Z | 评测人: MysteryMulberry*
