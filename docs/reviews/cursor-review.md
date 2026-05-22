@@ -39,4 +39,4 @@ cursor-cli --help
 - GitHub仓库: https://github.com/example/cursor
 
 ---
-*评测编号: #13 | 评测时间: 2026-05-22T04:26:03Z | 评测人: MysteryMulberry*
+*评测编号: #13 | 评测时间: 2026-05-22T04:40:42Z | 评测人: MysteryMulberry*
