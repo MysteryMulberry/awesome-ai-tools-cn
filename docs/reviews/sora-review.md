@@ -39,4 +39,4 @@ sora-cli --help
 - GitHub仓库: https://github.com/example/sora
 
 ---
-*评测编号: #14 | 评测时间: 2026-05-22T04:26:05Z | 评测人: MysteryMulberry*
+*评测编号: #14 | 评测时间: 2026-05-22T04:40:45Z | 评测人: MysteryMulberry*
