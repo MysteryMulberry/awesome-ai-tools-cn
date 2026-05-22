@@ -39,4 +39,4 @@ whisper-cli --help
 - GitHub仓库: https://github.com/example/whisper
 
 ---
-*评测编号: #09 | 评测时间: 2026-05-22T04:25:53Z | 评测人: MysteryMulberry*
+*评测编号: #09 | 评测时间: 2026-05-22T04:40:28Z | 评测人: MysteryMulberry*
