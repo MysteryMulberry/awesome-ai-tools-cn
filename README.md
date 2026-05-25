@@ -48,6 +48,7 @@
 | [ComfyUI](docs/guides/) | 节点式AI图像工作流 | 开源 | ✅ |
 | [Suno](docs/guides/) | AI音乐创作平台 | SaaS | ❌ |
 | [Gamma](docs/guides/) | AI快速生成专业演示文稿 | SaaS | ❌ |
+| [LandscapioAI](https://www.landscapioai.com/) | AI景观与户外空间设计生成工具 | SaaS | ❌ |
 
 ### 💻 编程与开发
 
