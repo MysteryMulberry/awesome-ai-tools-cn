@@ -46,6 +46,7 @@
 | [Stable Diffusion](docs/guides/) | 开源图像生成，支持本地部署 | 开源 | ✅ |
 | [DALL·E](docs/guides/) | OpenAI图像生成API | SaaS | ❌ |
 | [ComfyUI](docs/guides/) | 节点式AI图像工作流 | 开源 | ✅ |
+| [ImagineClip](https://imagineclip.com) | AI 视频生成工具，支持提示词、图片和效果生成头像短片与社交视频 | SaaS | ❌ |
 | [Suno](docs/guides/) | AI音乐创作平台 | SaaS | ❌ |
 | [Gamma](docs/guides/) | AI快速生成专业演示文稿 | SaaS | ❌ |
 
