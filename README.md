@@ -62,6 +62,7 @@
 
 | 工具 | 一句话描述 | 类型 | 开源 |
 |------|-----------|------|------|
+| [Remio](https://remio.ai/) | 本地优先AI记忆与知识库，索引文件、网页、会议、邮件和笔记 | SaaS | ❌ |
 | [Perplexity](docs/guides/) | AI搜索引擎，精准引用 | SaaS | ❌ |
 | [Notion AI](docs/guides/) | Notion内置AI写作助手 | SaaS | ❌ |
 
