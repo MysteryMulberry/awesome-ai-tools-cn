@@ -46,6 +46,7 @@
 | [Stable Diffusion](docs/guides/) | 开源图像生成，支持本地部署 | 开源 | ✅ |
 | [DALL·E](docs/guides/) | OpenAI图像生成API | SaaS | ❌ |
 | [ComfyUI](docs/guides/) | 节点式AI图像工作流 | 开源 | ✅ |
+| [Emu](https://image.tinchak0207.xyz) | 在线生成 GPT Image 2 / Nano Banana Pro | SaaS | ❌ |
 | [Suno](docs/guides/) | AI音乐创作平台 | SaaS | ❌ |
 | [Gamma](docs/guides/) | AI快速生成专业演示文稿 | SaaS | ❌ |
 
