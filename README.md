@@ -48,6 +48,7 @@
 | [ComfyUI](docs/guides/) | 节点式AI图像工作流 | 开源 | ✅ |
 | [Suno](docs/guides/) | AI音乐创作平台 | SaaS | ❌ |
 | [Gamma](docs/guides/) | AI快速生成专业演示文稿 | SaaS | ❌ |
+| [OrkasVideoStudio](docs/guides/orkas-videostudio.md) | MIT 开源、本地优先的 CLI/MCP 视频工具包，让编程 Agent 通过 plan.json 编排、剪辑和生成视频。 | CLI/MCP 工具包 | ✅ |
 
 ### 💻 编程与开发
 
