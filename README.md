@@ -37,6 +37,7 @@
 | [通义千问](docs/guides/) | 阿里云开源，中英双语强 | 开源 | ✅ |
 | [DeepSeek](docs/guides/) | 深度求索，代码推理性价比之王 | 开源 | ✅ |
 | [豆包](docs/guides/) | 字节跳动，国内低延迟 | SaaS | ❌ |
+| [Orkas](docs/guides/orkas.md) | 开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业 Agent。 | 桌面应用 | ✅ |
 
 ### 🎨 图像与创意
 
