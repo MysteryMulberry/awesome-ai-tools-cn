@@ -57,6 +57,7 @@
 | [Cursor](docs/guides/) | AI原生代码编辑器 | SaaS | ❌ |
 | [DeepSeek-Coder](docs/guides/) | 开源代码模型，可本地运行 | 开源 | ✅ |
 | [Continue](docs/guides/) | 开源AI编程助手，多模型支持 | 开源 | ✅ |
+| [agent-qa](https://vostride.com) · [指南](docs/guides/agent-qa.md) | Web/Android/iOS自然语言测试，持久记忆与经验证的自我改进 | CLI / MCP | FSL-1.1-ALv2 |
 
 ### 🔍 搜索与知识
 
