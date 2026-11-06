@@ -63,6 +63,7 @@
 | 工具 | 一句话描述 | 类型 | 开源 |
 |------|-----------|------|------|
 | [Perplexity](docs/guides/) | AI搜索引擎，精准引用 | SaaS | ❌ |
+| [证伪AI / DisconfirmAI](https://disconfirmai.com/zh) | 投资研究里先找反面证据的 AI 阅读与证伪平台 | SaaS | ❌ |
 | [Notion AI](docs/guides/) | Notion内置AI写作助手 | SaaS | ❌ |
 
 ### 🎙️ 语音与多模态
