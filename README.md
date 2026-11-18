@@ -92,6 +92,7 @@
 | [Open WebUI](docs/guides/) | ChatGPT风格Web界面 | 开源 | ✅ |
 | [AnythingLLM](docs/guides/) | 全功能私有文档问答 | 开源 | ✅ |
 | [SiliconFlow](docs/guides/) | 国内AI推理云平台 | SaaS | ❌ |
+| [MoeRouter](docs/guides/moerouter.md) | 多模型 API 网关，按可用线路选路并按量计费 | SaaS | ❌ |
 
 ### 🗄️ 向量数据库
 
